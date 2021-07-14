@@ -1,3 +1,2 @@
-# bo-web
 
-Web portfolio
+My web portfolio
